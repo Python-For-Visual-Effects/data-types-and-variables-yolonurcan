@@ -10,7 +10,9 @@ print(64+32)
 
 # 2.- Do the same as the question one but this time use variables instead of 
 # numbers.
-
+number1 = 64
+number2 = 32
+print(number1 + number2)
 # 3.- Make a program that prints a sentence that includes at least 3 variables.
 
 # 4.- Given a sentence, assign the string to a variable then print the number of 
